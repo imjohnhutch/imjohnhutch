@@ -1,28 +1,36 @@
 # John Hutchison
 
-Senior Product Manager. I build software on the side and think a lot about how to ship things that people actually use.
+Senior Product Manager who ships software. I run product work by day and build my own apps at night, then publish the templates, frameworks, and tooling I use along the way.
 
-This GitHub is my workshop — product writing, side projects, and tooling I've put together. Day job is not represented here.
+This GitHub is the workshop. Day job lives elsewhere.
 
-## What I'm shipping
+## What I work on
+
+- **iOS and web apps as a side practice** — shipped end-to-end, idea → code → App Store → real users
+- **PM templates and frameworks I actually use** — PRDs, product teardowns, research plans, launch checklists, retros
+- **Tooling for AI-era PM work** — curating and contributing to the Claude Code ecosystem
+- **Open-source native modules** when an iOS capability isn't exposed to React Native yet
+
+## Currently shipping
 
 - **[SkinTrack](https://skintrack.app)** — iOS app for tracking skin conditions over time. Local-first, no account required. [App Store](https://apps.apple.com/is/app/skintrack-spot-the-change/id6755610778).
 - **[outwestlabs.io](https://outwestlabs.io)** — Personal site and writing.
-- A few other things in progress that aren't quite ready to link.
+- A few other products in progress.
 
-## How I work as a PM
+## How I work as a PM (public artifacts)
 
-I keep my templates, frameworks, and writing process here so they're searchable and reusable:
-
-- **[pm-resources](https://github.com/imjohnhutch/pm-resources)** — PRD, one-pager, research plan, launch checklist, retro, and teardown templates I actually use. Plus frameworks and links.
-- **[reading-list](https://github.com/imjohnhutch/reading-list)** — Books, articles, and podcasts that have shaped how I think about product.
-- **[claude-code-toolkit](https://github.com/imjohnhutch/claude-code-toolkit)** — Curated directory of Claude Code skills, hooks, slash commands, and agents I've vetted while using it daily.
+- **[pm-resources](https://github.com/imjohnhutch/pm-resources)** — PRD, one-pager, research plan, launch checklist, retro, and product teardown templates. Plus the frameworks and references I keep coming back to.
+- **[reading-list](https://github.com/imjohnhutch/reading-list)** — Books, articles, and podcasts that shaped how I think about product and leadership.
+- **[claude-code-toolkit](https://github.com/imjohnhutch/claude-code-toolkit)** — Curated directory of Claude Code skills, hooks, slash commands, and agents, vetted from daily use.
 
 ## Open source
 
-- **[expo-modules-lidar](https://github.com/imjohnhutch/expo-modules-lidar)** — Expo native module exposing iOS LiDAR depth data to React Native. Built it while prototyping SkinTrack.
+- **[expo-modules-lidar](https://github.com/imjohnhutch/expo-modules-lidar)** — Expo native module exposing iOS LiDAR depth data to React Native. Built while prototyping SkinTrack.
 
-## Find me elsewhere
+## Get in touch
 
+Always up for a conversation about shipping in the AI-PM era, side-project collaboration, or product craft in general.
+
+- Email: john@outwestlabs.io
 - [LinkedIn](https://www.linkedin.com/in/johnphutchison)
 - [outwestlabs.io](https://outwestlabs.io)
