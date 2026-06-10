@@ -6,15 +6,15 @@ This GitHub is the workshop. Day job lives elsewhere.
 
 ## What I work on
 
-- **iOS and web apps as a side practice** — shipped end-to-end, idea → code → App Store → real users
+- **iOS, Android and web apps as a side practice** — shipped end-to-end, idea → code → App Store → real users
 - **PM templates and frameworks I actually use** — PRDs, product teardowns, research plans, launch checklists, retros
 - **Tooling for AI-era PM work** — curating and contributing to the Claude Code ecosystem
 - **Open-source native modules** when an iOS capability isn't exposed to React Native yet
 
 ## Currently shipping
 
-- **[SkinTrack](https://skintrack.app)** — iOS app for tracking skin conditions over time. Local-first, no account required. [App Store](https://apps.apple.com/is/app/skintrack-spot-the-change/id6755610778).
-- **[outwestlabs.io](https://outwestlabs.io)** — Personal site and writing.
+- **[SkinTrack](https://skintrack.app)** — iOS + Android app for tracking skin conditions over time. Local-first, no account required. [App Store](https://apps.apple.com/is/app/skintrack-spot-the-change/id6755610778).
+- **[outwestlabs.io](https://outwestlabs.io)** — Personal site.
 - A few other products in progress.
 
 ## How I work as a PM (public artifacts)
