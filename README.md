@@ -13,7 +13,7 @@ This GitHub is the workshop. Day job lives elsewhere.
 
 ## Currently shipping
 
-- **[SkinTrack](https://skintrack.app)** — iOS + Android app for tracking skin conditions over time. Local-first, no account required. [App Store](https://apps.apple.com/is/app/skintrack-spot-the-change/id6755610778).
+- **[SkinTrack](https://skintrack.app)** — iOS + Android app for tracking skin conditions over time. Local-first, no account required.
 - **[outwestlabs.io](https://outwestlabs.io)** — Personal site.
 - A few other products in progress.
 
